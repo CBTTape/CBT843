@@ -1,0 +1,8 @@
+2023-04-03 03:04:24.727248 - Initialized conversion of CBT843
+2023-04-03 03:04:24.762148 - Received CBT.V504.FILE843.PDS from FILE843.XMI 
+2023-04-03 03:04:24.764973 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE843.PDS, moved to PDS/$$$#DATE
+2023-04-03 03:04:24.766091 - Found $$DOC.txt (text/plain) in CBT.V504.FILE843.PDS, moved to PDS/$$DOC
+2023-04-03 03:04:24.767197 - Found @FILE843.txt (text/plain) in CBT.V504.FILE843.PDS, moved to PDS/@FILE843
+2023-04-03 03:04:24.768244 - Found UREC.rexx (text/plain) in CBT.V504.FILE843.PDS, moved to PDS/UREC
+2023-04-03 03:04:24.768253 - Found URECP.bin containing application/octet-stream, moved to PDS/URECP
+2023-04-03 03:04:24.770275 - Found UREC00.txt (text/plain) in CBT.V504.FILE843.PDS, moved to PDS/UREC00
