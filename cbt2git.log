@@ -1,7 +1,7 @@
-2025-04-13 23:21:58.182226 - Received CBT.V505.FILE843.PDS from FILE843.XMI 
-2025-04-13 23:21:58.183567 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE843.PDS, moved to PDS/$$$#DATE
-2025-04-13 23:21:58.183689 - Found $$DOC.txt (text/plain) in CBT.V505.FILE843.PDS, moved to PDS/$$DOC
-2025-04-13 23:21:58.183783 - Found @FILE843.txt (text/plain) in CBT.V505.FILE843.PDS, moved to PDS/@FILE843
-2025-04-13 23:21:58.183881 - Found UREC.rexx (text/plain) in CBT.V505.FILE843.PDS, moved to PDS/UREC
-2025-04-13 23:21:58.183978 - Found URECP.bin (application/octet-stream) in CBT.V505.FILE843.PDS, moved to PDS/URECP
-2025-04-13 23:21:58.184071 - Found UREC00.txt (text/plain) in CBT.V505.FILE843.PDS, moved to PDS/UREC00
+2025-04-15 06:01:13.155049 - Received CBT.V505.FILE843.PDS from FILE843.XMI 
+2025-04-15 06:01:13.155961 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE843.PDS, moved to PDS/$$$#DATE
+2025-04-15 06:01:13.156321 - Found $$DOC.txt (text/plain) in CBT.V505.FILE843.PDS, moved to PDS/$$DOC
+2025-04-15 06:01:13.156392 - Found @FILE843.txt (text/plain) in CBT.V505.FILE843.PDS, moved to PDS/@FILE843
+2025-04-15 06:01:13.156586 - Found UREC.rexx (text/plain) in CBT.V505.FILE843.PDS, moved to PDS/UREC
+2025-04-15 06:01:13.156751 - Found URECP.bin (application/octet-stream) in CBT.V505.FILE843.PDS, moved to PDS/URECP
+2025-04-15 06:01:13.156912 - Found UREC00.txt (text/plain) in CBT.V505.FILE843.PDS, moved to PDS/UREC00
